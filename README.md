@@ -1,6 +1,6 @@
 # Predicting Cancellations and Gaining Hotel Booking
 
-![Cover Image](Predicting-Cancellations-And-Gaining-Hotel-Booking.png)
+![Cover Image](Predicting-Cancellations-And-Gaining-Hotel-Booking2.png)
 
 ## Overview
 
